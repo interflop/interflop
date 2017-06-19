@@ -17,14 +17,16 @@ AC_PROG_LN_S
 AC_PROG_MAKE_SET
 
 AC_CHECK_LIB([c], [exit], , AC_MSG_ERROR([Could not find c library]))
+AC_CHECK_LIB([mpfr], [mpfr_clear], , AC_MSG_ERROR([Could not find mpfr library]))
 
 # Check for header files.
-AC_CHECK_HEADERS([stdio.h stdlib.h stdbool.h], , AC_MSG_ERROR([Missing required headers]))
+AC_CHECK_HEADERS([stdio.h stdlib.h stdbool.h mpfr.h errno.h string.h], , AC_MSG_ERROR([Missing required headers]))
 
 # Generate config files
 
 AC_CONFIG_FILES([Makefile
 		 backends/Makefile
 		 backends/ieee/Makefile
+		 backends/mca-mpfr/Makefile
                 ])
 AC_OUTPUT

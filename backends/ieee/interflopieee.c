@@ -51,7 +51,7 @@ static void _interflop_div_double(double a, double b, double* c, void* context) 
 
 struct interflop_backend_interface_t interflop_init(void ** context) {
 
-  char * interflop_backend_debug = getenv("NUMDBG_BACKEND_DEBUG");
+  char * interflop_backend_debug = getenv("INTERFLOP_IEEE_DEBUG");
   if (interflop_backend_debug != NULL) {
     debug = true;
   }
