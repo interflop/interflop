@@ -65,8 +65,8 @@
 #define MCA_PRECISION_DEFAULT 53
 #define VERIFICARLO_MCAMODE_DEFAULT MCAMODE_MCA
 
-static int 	MCALIB_OP_TYPE 		= MCAMODE_IEEE;
-static int 	MCALIB_T		    = 53;
+static int MCALIB_OP_TYPE = VERIFICARLO_MCAMODE_DEFAULT;
+static int MCALIB_T       = MCA_PRECISION_DEFAULT;
 
 #define MP_ADD &mpfr_add
 #define MP_SUB &mpfr_sub
@@ -304,7 +304,7 @@ struct interflop_backend_interface_t interflop_init(void ** context) {
 
     char * endptr;
 
-    int mca_precision = MCA_PRECISION_DEFAULT , mca_mode = VERIFICARLO_MCAMODE_DEFAULT;
+    int mca_precision , mca_mode;
 
     /* If INTERFLOP_MCA_PRECISION is set, try to parse it */
     char * precision = getenv(MCA_PRECISION);
