@@ -304,7 +304,7 @@ struct interflop_backend_interface_t interflop_init(void ** context) {
 
     char * endptr;
 
-    int mca_precision, mca_mode;
+    int mca_precision = MCA_PRECISION_DEFAULT , mca_mode = VERIFICARLO_MCAMODE_DEFAULT;
 
     /* If INTERFLOP_MCA_PRECISION is set, try to parse it */
     char * precision = getenv(MCA_PRECISION);
