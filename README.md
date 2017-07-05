@@ -2,7 +2,7 @@
 
 ## License
 
-Copyright (c) 2017 EDF, Intel, Universite de Versailles St-Quentin-en-Yvelines
+Copyright (c) 2017 EDF, Universite de Versailles St-Quentin-en-Yvelines
 
 Interflop is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
