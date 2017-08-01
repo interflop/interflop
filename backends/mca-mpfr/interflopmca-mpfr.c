@@ -63,9 +63,9 @@
 #define MCA_PRECISION "INTERFLOP_MCA_PRECISION"
 #define MCA_MODE "INTERFLOP_MCA_MODE"
 #define MCA_PRECISION_DEFAULT 53
-#define VERIFICARLO_MCAMODE_DEFAULT MCAMODE_MCA
+#define MCA_MODE_DEFAULT MCAMODE_MCA
 
-static int MCALIB_OP_TYPE = VERIFICARLO_MCAMODE_DEFAULT;
+static int MCALIB_OP_TYPE = MCA_MODE_DEFAULT;
 static int MCALIB_T       = MCA_PRECISION_DEFAULT;
 
 #define MP_ADD &mpfr_add
@@ -304,7 +304,8 @@ struct interflop_backend_interface_t interflop_init(void ** context) {
 
     char * endptr;
 
-    int mca_precision , mca_mode;
+    int mca_precision = MCA_PRECISION_DEFAULT;
+    int mca_mode = MCA_MODE_DEFAULT;
 
     /* If INTERFLOP_MCA_PRECISION is set, try to parse it */
     char * precision = getenv(MCA_PRECISION);
@@ -344,6 +345,8 @@ struct interflop_backend_interface_t interflop_init(void ** context) {
     }
 
     _set_mca_mode(mca_mode);
+
+    _mca_seed();
 
     struct interflop_backend_interface_t interflop_backend_mca = {
 	    _interflop_add_float,
