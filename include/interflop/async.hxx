@@ -143,6 +143,34 @@ public:
     return (out << value);
   }
 
+  Real cos () const {
+    return Real (std::cos(value));
+  }
+
+  Real sin () const {
+    return Real (std::sin(value));
+  }
+
+  Real exp () const {
+    return Real (std::exp(value));
+  }
+
+  Real log () const {
+    return Real (std::log(value));
+  }
+
+  bool operator< (const Real & other) {
+    return (value < other.value);
+  }
+
+  bool operator<= (const Real & other) {
+    return (value <= other.value);
+  }
+
+  bool operator== (const Real & other) {
+    return (value == other.value);
+  }
+
 private:
   PREC value;
 };
@@ -154,4 +182,29 @@ template <typename PREC>
 std::ostream & operator<< (std::ostream & out,
                            const Interflop::Async::Real<PREC> & r) {
   return r.output(out);
+}
+
+
+namespace std {
+
+template <typename PREC>
+Interflop::Async::Real<PREC> cos (const Interflop::Async::Real<PREC> &x) {
+  return x.cos();
+}
+
+template <typename PREC>
+Interflop::Async::Real<PREC> sin (const Interflop::Async::Real<PREC> &x) {
+  return x.sin();
+}
+
+template <typename PREC>
+Interflop::Async::Real<PREC> exp (const Interflop::Async::Real<PREC> &x) {
+  return x.exp();
+}
+
+template <typename PREC>
+Interflop::Async::Real<PREC> log (const Interflop::Async::Real<PREC> &x) {
+  return x.log();
+}
+
 }

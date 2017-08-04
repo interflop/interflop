@@ -4,12 +4,18 @@
 
 int main () {
   Interflop::Async::init();
+  //typedef double Real;
   typedef Interflop::Async::Real<double> Real;
-  Real x = 0.;
 
-  for (int i = 0 ; i<1000 ; ++i) {
-    x += 0.1*i;
+  const unsigned long int N = 1000000;
+
+  Real xMax = M_PI_2;
+  Real dx = xMax / N;
+  Real acc = 0.;
+
+  for (Real x = Real(0.5)*dx ; x < xMax ; x += dx) {
+    acc += dx * std::cos(x);
   }
 
-  std::cout << std::setprecision(16) << x << std::endl;
+  std::cout << std::setprecision(16) << acc << std::endl;
 }
