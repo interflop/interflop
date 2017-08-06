@@ -2,20 +2,24 @@
 #include <iostream>
 #include <iomanip>
 
-int main () {
-  Interflop::Async::init();
-  //typedef double Real;
-  typedef Interflop::Async::Real<double> Real;
+typedef Interflop::Async<double> Real;
 
+Real integrate_cos (const Real & x0, const Real & x1) {
   const unsigned long int N = 1000000;
 
-  Real xMax = M_PI_2;
-  Real dx = xMax / N;
+  Real dx = (x1-x0) / N;
   Real acc = 0.;
 
-  for (Real x = Real(0.5)*dx ; x < xMax ; x += dx) {
+  for (Real x = x0 + Real(0.5)*dx ;
+       x < x1 ;
+       x += dx) {
     acc += dx * std::cos(x);
   }
 
-  std::cout << std::setprecision(16) << acc << std::endl;
+  return acc;
+}
+
+int main () {
+  std::cout << std::setprecision(16)
+            << integrate_cos (0, M_PI_2) << std::endl;
 }
