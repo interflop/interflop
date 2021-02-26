@@ -35,7 +35,6 @@ plugins:
  - jekyll-feed
 
 header_pages:
- - index.md 
  - 01_index.md
  - 02_consortium.md
  - 03_publications.md  
