@@ -23,8 +23,8 @@ email: interflop.project@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  InterFLOP Project
 
-baseurl: "/interflop" # the subpath of your site, e.g. /blog
-url: "https://interflop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/interflop" # the subpath of your site, e.g. /blog
+#url: "https://interflop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: # set tracking
 #twitter_username: jekyllrb
 #github_username:  jekyll
@@ -42,7 +42,7 @@ header_pages:
     
 
 permalinks: pretty
-markdown: kramdown
+#markdown: kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -2,7 +2,6 @@
 layout: page
 title: Consortium
 permalink: /consortium/
-order: 2
 ---
 
 ## Members

@@ -2,7 +2,6 @@
 layout: page
 title: Publications
 permalink: /publications/
-order: 3
 ---
 
 Here are listed the publications financed by the ANR InterFLOP.
