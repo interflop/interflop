@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Consortium
-permalink: /consortium/
+#permalink: /consortium/
 ---
 
 ## Members

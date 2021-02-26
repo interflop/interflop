@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /publications/
+#permalink: /publications/
 ---
 
 Here are listed the publications financed by the ANR InterFLOP.
