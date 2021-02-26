@@ -1,3 +1,8 @@
+---
+layout: page
+title: Home
+permalink: /home/
+---
 
 [![Image](/images/anr.png){: height="60" align="right" }](https://anr.fr/fileadmin/aap/2020/selection/aapg-selection-2020-07-29092020.pdf)
 
