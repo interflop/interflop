@@ -27,4 +27,4 @@ The main deliverable of the project is hosted on github [here](https://github.co
 
 
 ## Relevant Web Links
-- [FPbenhc](https://fpbench.org/)
+- [FPbench](https://fpbench.org/)
