@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-#permalink: /index/
+permalink: /index/
 #order: 1
 ---
 
