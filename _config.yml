@@ -39,8 +39,6 @@ header_pages:
  - index.md
  - consortium.md
  - publications.md
- - 2021-03-12-meeting.md
- - 2021-01-29-meeting.md
     
 
 permalinks: pretty
