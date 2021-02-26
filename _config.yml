@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "/interflop" # the subpath of your site, e.g. /blog
 url: "https://interflop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: # set tracking
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -39,6 +40,8 @@ header_pages:
  - consortium.md
  - publications.md   
 
+permalinks: pretty
+markdown: kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -48,12 +51,12 @@ header_pages:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
+   - Gemfile
+   - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
