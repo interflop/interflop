@@ -1,0 +1,60 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: page
+permalink: /meeting29012021/
+---
+## Kick-Off Meeting 29 01 2021
+
+### Topics
+We were glad to participate to the Kick-Off meeting of InterFLOP Project, funded the the French National Agency for Research (ANR).
+Due to COVID limitations, this meetings was done via zoom. 
+
+### Attendees
+Bruno Lathuilière, François Févotte, Yves Lhuillier, Devan Sohier, El-Mehdi El Arar, Eric Petit, Wilfried Kirschenmann, Theo Mary, Stef Graillat, Roman Iakymchuck, Pablo Oliveira, Matei Istoan, Julien Signole, Fabienne Jezequel, David Defour.
+
+### Program
+<table>
+<tr>
+<th> Time </th>
+<th> Topic </th>
+</tr>
+
+<tr>
+<td>9h00 - 9h30</td>
+<td>Administrative presentation of the project (David D.)</td>
+</tr>
+
+<tr>
+<td>9h30 - 10h15</td>
+<td> Task 1: Specification of the platform (Bruno L.)</td>
+</tr>
+
+<tr>
+<td>10h15 - 11h00</td>
+<td> Task 2: New front-end and mechanism to collect information (Wilfried K.)</td>
+</tr>
+
+<tr>
+<td>11h00 - 11h45</td>
+<td> Task 3: New models for error estimation and composite analysis (Franck V.)</td>
+</tr>
+
+<tr>
+<td>14h00 - 14h45</td>
+<td> Task 4: Precision auto-tuning and verified computing (Fabienne J.)</td>
+</tr>
+
+<tr>
+<td>14h45 - 15h30</td>
+<td> Task 5: Post-processing and statistical analysis of the results (Pablo D.O.C.)</td>
+</tr>
+
+<tr>
+<td>14h45 - 15h30</td>
+<td> Task 6: Applications Cases (Eric P. & Wilfried K.)</td>
+</tr>
+
+</table>
+
