@@ -1,5 +1,5 @@
 
-[![Image](images/anr.png){: height="60" align="right" }](https://anr.fr/fileadmin/aap/2020/selection/aapg-selection-2020-07-29092020.pdf)
+[![Image](/images/anr.png){: height="60" align="right" }](https://anr.fr/fileadmin/aap/2020/selection/aapg-selection-2020-07-29092020.pdf)
 
 
 <br> 
@@ -16,4 +16,4 @@ The InterFLOP project aims at providing a modular and scalable platform to both 
 </p>
 
 ### Details
-The description of the project if available as [PDF format](documents/INTERFLOP-proposal.pdf)
+The description of the project if available as [PDF format](/documents/INTERFLOP-proposal.pdf)
