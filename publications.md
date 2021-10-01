@@ -22,9 +22,9 @@ The main deliverable of the project is hosted on github [here](https://github.co
 
 ## Project meetings
 
-- 29 01 2021: [Kick-Off Meeting](/interflop/meeting29012021) (Virtual)
-- 12 03 2021: [Task 1 Meeting](/interflop/meeting12032021) (Virtual)
-- 06 10 2021: [Mid-Year Meeting](/interflop/meeting06102021) (Sorbonne Univ.)
+- 29 01 2021: [Kick-Off Meeting](/meeting29012021) (Virtual)
+- 12 03 2021: [Task 1 Meeting](/meeting12032021) (Virtual)
+- 06 10 2021: [Mid-Year Meeting](/meeting06102021) (Sorbonne Univ.)
 
 ## Relevant Web Links
 
