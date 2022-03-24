@@ -29,6 +29,7 @@ IEEE 28th Symposium on Computer Arithmetic (ARITH), Jun 2021, Virtual Conference
 - 29 01 2021: [Kick-Off Meeting](/meeting29012021) (Virtual)
 - 12 03 2021: [Task 1 Meeting](/meeting12032021) (Virtual)
 - 06 10 2021: [Mid-Year Meeting](/meeting06102021) (Sorbonne Univ.)
+- 31 03 2022: [First-Year Meeting](/meeting31032022) (UVSQ)
 
 ## Relevant Web Links
 
