@@ -19,12 +19,6 @@ The main deliverable of the project is hosted on github [here](https://github.co
 - [FLDLIB](https://github.com/fvedrine/fldlib)
 
 ## Publications of the project
-
-- D. Defour, F. Fevotte, S. Graillat, F. Jezequel, W. Kirschenmann, J.-L. Lamotte, B. Lathuiliere, Y. Lhuiller, P. de Oliveira Castro, E. Petit, J. Signoles, D. Sohier & F. Vedrine, [InterFLOP, Interoperable Tools for Computing, Debugging, Validation and Optimization of Floating-Point Programs](https://halshs.archives-ouvertes.fr/LAMPS/hal-03245586v1) , [ISC 2021, ICS High Performance 2021](https://www.isc-hpc.com/), June 2021.
-- David Defour, Pablo de Oliveira Castro, Matei Istoan, Eric Petit. [Shadow computation with BFloat16 to compute numerical accuracy](https://hal-anr.archives-ouvertes.fr/hal-03159965), June 2021.
-IEEE 28th Symposium on Computer Arithmetic (ARITH), Jun 2021, Virtual Conference, France
-- Matteo Croci, Massimiliano Fasi, Nicholas Higham, Théo Mary, Mantas Mikaitis. [Stochastic Rounding: Implementation, Error Analysis, and Applications](https://hal.archives-ouvertes.fr/hal-03378080), October 2021.
-
 <div>
 <iframe width="800" height="500" src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?projet_anr=ANR-20-CE46-0009&CB_ref_biblio=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css"></iframe>
 </div>
