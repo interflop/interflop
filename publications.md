@@ -26,8 +26,9 @@ IEEE 28th Symposium on Computer Arithmetic (ARITH), Jun 2021, Virtual Conference
 - Matteo Croci, Massimiliano Fasi, Nicholas Higham, Théo Mary, Mantas Mikaitis. [Stochastic Rounding: Implementation, Error Analysis, and Applications](https://hal.archives-ouvertes.fr/hal-03378080), October 2021.
 
 <div>
-<iframe width="800" height="500" src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?projet_anr=%09ANR-20-CE46-0009&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Rech&lang=fr"></iframe>
+<iframe width="800" height="500" src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?projet_anr=ANR-20-CE46-0009&CB_ref_biblio=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css"></iframe>
 </div>
+
 
 ## Project meetings
 
