@@ -9,7 +9,7 @@ title: Consortium
 ### ![Image](/images/upvd.png){: width="80" } Université de Perpignan Via Domitia 
 - ![Image](/images/dd.png){: height="50" } David DEFOUR
 
-### ![Image](/images/uvsq.png){: width="80" } Université de Versailles Sain Quentin
+### ![Image](/images/uvsq.png){: width="80" } Université de Versailles Saint-Quentin-en-Yvelines
 - ![Image](/images/po.png){: height="50" } Pablo DE OLIVEIRA
 - ![Image](/images/ds.png){: height="50" } Devan SOHIER
 - ![Image](/images/elea.png){: height="50" } El-Mehdi EL ARAR
