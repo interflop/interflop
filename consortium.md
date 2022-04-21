@@ -10,9 +10,9 @@ title: Consortium
 - ![Image](/images/dd.png){: height="50" } David DEFOUR
 
 ### ![Image](/images/uvsq.png){: width="80" } Université de Versailles Saint-Quentin-en-Yvelines
-- ![Image](/images/po.png){: height="50" } Pablo DE OLIVEIRA
+- ![Image](/images/po.png){: height="50" } [Pablo DE OLIVEIRA](https://www.sifflez.org)
 - ![Image](/images/ds.png){: height="50" } Devan SOHIER
-- ![Image](/images/elea.png){: height="50" } El-Mehdi EL ARAR
+- ![Image](/images/elea.png){: height="50" } [El-Mehdi EL ARAR](https://mehdielarar.github.io)
 
 ### ![Image](/images/su.png){: width="80" } Sorbonne Université 
 - ![Image](/images/fj.png){: height="50" } Fabienne JEZEQUEL
