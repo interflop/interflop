@@ -39,6 +39,6 @@ title: Consortium
 
 ## External collaborators
 
-### ![Image](https://www.umu.se/Static/img/umu-logo-left-neg-EN.svg){: width="80" } UMEA University
+### ![Image](https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Ume%C3%A5_University_Logo.svg/1200px-Ume%C3%A5_University_Logo.svg.png){: width="80" } UMEA University
 - ![Image](/images/ri.png){: height="50" } Roman IAKYMCHUK
 
