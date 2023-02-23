@@ -17,7 +17,6 @@ title: Consortium
 ### ![Image](/images/su.png){: width="80" } Sorbonne Université 
 - ![Image](/images/fj.png){: height="50" } Fabienne JEZEQUEL
 - ![Image](/images/sg.png){: height="50" } Stef GRAILLAT
-- ![Image](/images/ri.png){: height="50" } Roman IAKYMCHUCK
 - ![Image](/images/jll.png){: height="50" } Jean-Luc LAMOTTE
 - ![Image](/images/tm.png){: height="50" } Théo MARY
 
@@ -37,4 +36,9 @@ title: Consortium
 
 ### ![Image](/images/triscale.png){: width="80" } Triscale Innov
 - ![Image](/images/ff.png){: height="50" } François FEVOTTE
+
+## External collaborators
+
+### ![Image](https://www.umu.se/Static/img/umu-logo-left-neg-EN.svg){: width="80" } UMEA University
+- ![Image](/images/ri.png){: height="50" } Roman IAKYMCHUK
 
