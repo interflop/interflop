@@ -31,6 +31,7 @@ The main deliverable of the project is hosted on github [here](https://github.co
 - 06 10 2021: [Mid-Year Meeting](/meeting06102021) (Sorbonne Univ.)
 - 31 03 2022: [First-Year Meeting](/meeting31032022) (UVSQ)
 - 20 10 2022: [Mid-Year Meeting](/meeting20102022) (UPVD)
+- 08 06 2023: [Yearly Meeting](/meeting08062023) (EDF Saclay)
 
 ## Relevant Web Links
 
