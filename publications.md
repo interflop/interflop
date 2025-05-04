@@ -33,6 +33,7 @@ The main deliverable of the project is hosted on github [here](https://github.co
 - 20 10 2022: [Mid-Year Meeting](/meeting20102022) (UPVD)
 - 08 06 2023: [Yearly Meeting](/meeting08062023) (EDF Saclay)
 - 13 06 2024: [Mid-Year Meeting](/meeting13062024) (Sorbonne Univ.)
+- 20 03 2025: [Final Yearly Meeting](/meeting20032025) (Sorbonne Univ.)
 
 ## Relevant Web Links
 
